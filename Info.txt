@@ -1,0 +1,20 @@
+
+push 
+pull 
+
+local     on my laptop 
+remote    cloud       github / gitlap    -- if you will work on CMD 
+
+repository : a bag that have one more project 
+
+Branch : fix issues , new feature ...  
+
+Commits :   
+single changes on file    without pull or push 
+get old change    by comment id    
+
+pull :  draw to local    
+
+git status  ///  git log    your friends  
+
+Stop at : 50S
