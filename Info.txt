@@ -23,4 +23,12 @@ git log
 to create new branch " git branch qa"
 to add you work on the new branch that you create  " git checkout qa"
 heads mean "on which branch i am on "
-Stop at : 1:10
+
+git checkout -b qa 
+Switched to a new branch 'qa'
++++ 
+git checkout qa 
+to be on the branch 
+
+git branch " list branch"
+Which branch i am on ? 
