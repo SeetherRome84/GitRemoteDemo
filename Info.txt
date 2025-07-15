@@ -17,4 +17,10 @@ pull :  draw to local
 
 git status  ///  git log    your friends  
 
-Stop at : 50S
+add to local repo    git commit -m "XYZ"  
+git log 
+
+to create new branch " git branch qa"
+to add you work on the new branch that you create  " git checkout qa"
+heads mean "on which branch i am on "
+Stop at : 1:10
